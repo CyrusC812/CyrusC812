@@ -33,6 +33,7 @@ I enjoy turning ideas into physical and digital solutions through CAD, 3D printi
 - Strengthening academic results at school through feedback and analysing test result overviews.
 
 Pronouns : He/Him
+
 Reach me : chung.cyrus.0@gmail.com
 
 # Todoist Stats
