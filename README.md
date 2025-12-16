@@ -38,4 +38,8 @@ Reach me : chung.cyrus.0@gmail.com
 # Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  686 Karma Points           
+🌸  Completed 13 tasks today           
+✅  Completed 28 tasks so far           
+⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
