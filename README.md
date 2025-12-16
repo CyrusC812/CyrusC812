@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there , 
+I'm Cyrus Chung, a GCSE student interested in aerospace engineering and currently learning Python programming.
+
+I enjoy turning ideas into physical and digital solutions through CAD, 3D printing and testing.
+
+## Areas of focus
+- Aerospace engineering concepts
+- CAD modelling and mechanical design
+- Prototyping
+- Programming as a tool for analysis
+
+## Current work
+- Learning Python programming
+- Mastering Onshape
+- Planning future projects
+- Strengthening academic results at school through feedback and analysing test result overviews.
+
+Pronouns : He/Him
+Reach me : chung.cyrus.0@gmail.com
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
