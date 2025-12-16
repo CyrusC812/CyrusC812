@@ -44,5 +44,9 @@ Reach me : chung.cyrus.0@gmail.com
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
+## My Skills 🧠
+[![Onshape](https://img.shields.io/badge/CAD-Onshape-1b5faa?logo=onshape&logoColor=white)](https://www.onshape.com/)
+[![Fusion 360](https://img.shields.io/badge/CAD-Fusion%20360-f36f21?logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+[![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![RBXLua](https://img.shields.io/badge/Code-RBXLua-000000?logo=lua&logoColor=white)](https://create.roblox.com/)
 
-![](https://gitwar.herokuapp.com/badge?username=CyrusC812&color=green)
