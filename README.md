@@ -43,3 +43,6 @@ Reach me : chung.cyrus.0@gmail.com
 ✅  Completed 30 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
+
+
+![](https://gitwar.herokuapp.com/badge?username=CyrusC812&color=green)
