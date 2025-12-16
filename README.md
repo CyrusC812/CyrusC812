@@ -39,7 +39,7 @@ Reach me : chung.cyrus.0@gmail.com
 
 <!-- TODO-IST:START -->
 🏆  686 Karma Points           
-🌸  Completed 13 tasks today           
-✅  Completed 28 tasks so far           
+🌸  Completed 15 tasks today           
+✅  Completed 30 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
