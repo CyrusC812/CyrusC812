@@ -23,10 +23,10 @@ I enjoy turning ideas into physical and digital solutions through CAD, 3D printi
 
 ## Productivity & consistency
 <!-- TODO-IST:START -->
-🏆  858 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 44 tasks so far           
-⏳  Longest streak is 2 days
+🏆  1,401 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 48 tasks so far           
+⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
 **Pronouns:** He/Him  
