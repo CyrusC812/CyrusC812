@@ -28,6 +28,6 @@ I enjoy turning ideas into physical and digital solutions through CAD, 3D printi
 ✅  Completed 48 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
-
+## Additional notes
 **Pronouns:** He/Him  
 **Contact:** chung.cyrus.0@gmail.com
