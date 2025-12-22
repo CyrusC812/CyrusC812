@@ -7,7 +7,7 @@ I enjoy turning ideas into physical and digital solutions through CAD, 3D printi
 - Aerospace engineering concepts
 - CAD modelling and mechanical design
 - Prototyping and iterative testing
-- Programming as a tool for analysis and automation
+- Programming as a tool for analysis and automation in fusion 360
 
 ## Current work
 - Learning Python for engineering applications
