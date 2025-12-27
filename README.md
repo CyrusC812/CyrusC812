@@ -29,7 +29,9 @@ I enjoy turning ideas into physical and digital solutions through CAD, 3D printi
 ⏳  Longest streak is 6 days
 <!-- TODO-IST:END -->
 ## Additional notes
+
 **Pronouns:** He/Him  
+
 **Contact:** chung.cyrus.0@gmail.com
 
 **GrabCAD Profile :** https://grabcad.com/cyrus.chung-2
